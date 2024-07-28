@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassantaj&theme=transparent" alt="Repos per Language" style="width:30%" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassantaj&theme=transparent" alt="Most Commit Language" style="width:30%" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassantaj&theme=transparent" alt="Stats" style="width:30%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassantaj&theme=transparent" alt="Repos per Language" style="width:33%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassantaj&theme=transparent" alt="Most Commit Language" style="width:33%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassantaj&theme=transparent" alt="Stats" style="width:33%" /> 
 </div>
 
 ## Technologies & Tools
