@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div style="display:flex; align-items:center; justify-content:space-between">
   <img src="https://github.com/hassantaj.png" alt="Hassan Taj" style="width:20%" /> 
-  <img style="width:calc(100% - 20%)" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassantaj&theme=transparent"/>
+  <img style="width:75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassantaj&theme=transparent"/>
 </div>
 
 <div>
