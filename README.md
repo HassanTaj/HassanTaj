@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 ![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassantaj&show_icons=true&theme=transparent) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassantaj&layout=compact&theme=transparent)
+ <img src="https://github.com/hassantaj.png" alt="Hassan Taj" style="width:20%" /> 
 -->
 
-<div style="display:flex; align-items:center; justify-content:space-between">
-  <img src="https://github.com/hassantaj.png" alt="Hassan Taj" style="width:20%" /> 
-  <img style="width:75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassantaj&theme=transparent"/>
+<div >
+  <img style="width:100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HassanTaj&theme=transparent"/>
 </div>
 
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassantaj&theme=transparent" alt="Repos per Language" style="width:33%" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassantaj&theme=transparent" alt="Most Commit Language" style="width:33%" /> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassantaj&theme=transparent" alt="Stats" style="width:33%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HassanTaj&theme=transparent" alt="Repos per Language" style="width:32%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HassanTaj&theme=transparent" alt="Most Commit Language" style="width:32%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HassanTaj&theme=transparent" alt="Stats" style="width:32%" /> 
 </div>
 
 ## Technologies & Tools
@@ -53,4 +53,12 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
+
+## Catch me at
+[![Outlook](https://img.shields.io/static/v1?message=EMAIL&logo=maildotru&label=&color=0072C6&logoColor=white&labelColor=&style=for-the-badge)](mailto:hassantaj01@outlook.com)
+[![WhatsApp](https://img.shields.io/static/v1?message=WHATSAPP&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+923249845044)
+[![Discord](https://img.shields.io/static/v1?message=DISCORD&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/hassantaj)
+[![Facebook](https://img.shields.io/static/v1?message=FACEBOOK&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge)](https://www.facebook.com/hassantaj01/)
+[![LinkedIn](https://img.shields.io/static/v1?message=LINKEDIN&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge)](https://pk.linkedin.com/in/hassan-taj/)
 
