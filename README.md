@@ -21,12 +21,16 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassantaj&layout=compact&theme=transparent)
 -->
 
-<img src="https://github.com/hassantaj.png" alt="Hassan Taj" style="width:20%" /> ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassantaj&theme=transparent)
+<div style="display:flex; align-items:center; justify-content:space-between">
+  <img src="https://github.com/hassantaj.png" alt="Hassan Taj" style="width:20%" /> 
+  <img style="width:calc(100% - 20%)" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassantaj&theme=transparent"/>
+</div>
 
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassantaj&theme=transparent)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassantaj&theme=transparent)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassantaj&theme=transparent)
-
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassantaj&theme=transparent" alt="Repos per Language" style="width:30%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassantaj&theme=transparent" alt="Most Commit Language" style="width:30%" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassantaj&theme=transparent" alt="Stats" style="width:30%" /> 
+</div>
 
 ## Technologies & Tools
 
