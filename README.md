@@ -1,46 +1,69 @@
 # Hassan Taj
 
-**Senior Software Engineer · Platform Engineering · Cloud Architecture**
+**Senior Software Engineer | Azure Solutions Architect Expert | .NET, Angular & React | Solution Architecture | Enterprise Modernization**
 
-I design and modernize software platforms that help teams build, deploy, and operate reliable applications. My implementation background is primarily in .NET and modern web technologies, while my broader focus spans platform architecture, cloud modernization, identity, distributed systems, and developer experience.
+I design, modernize, and deliver enterprise software across the full application lifecycle. My core implementation experience is in .NET, Angular, React, and TypeScript, supported by hands-on work in cloud architecture, identity, distributed systems, platform engineering, and CI/CD.
 
-I enjoy the work between application development and operations: turning business requirements into maintainable systems, documenting architectural decisions, and improving the paths teams use to deliver software.
+I enjoy translating business requirements into maintainable technical solutions, improving legacy systems without disrupting operations, and creating reusable foundations that help teams deliver consistently.
 
 ## Engineering focus
 
-- Platform and application architecture
-- Cloud modernization across Azure and AWS
-- Identity, authentication, and Single Sign-On
-- API design with REST, GraphQL, and gRPC
-- Containerized infrastructure, networking, DNS, and TLS
-- Developer experience, automation, and CI/CD
-- Responsible AI-assisted and specification-driven engineering
+- Enterprise application and solution architecture
+- .NET, ASP.NET Core, Angular, React, and TypeScript
+- Legacy modernization and cloud migration planning
+- REST, GraphQL, gRPC, API gateways, and service integration
+- OAuth 2.0, OpenID Connect, Single Sign-On, and claims-based authorization
+- Azure, AWS, containerized infrastructure, and CI/CD
+- Reusable libraries, developer experience, and technical documentation
 
-## What I am working on
+## Professional delivery highlights
 
-- Modernizing enterprise applications through .NET 8 migrations, GraphQL integrations, Angular micro-frontends, and React upgrades
-- Designing identity and integration approaches for legacy and multi-application environments
-- Building and documenting self-hosted platform experiments with Docker, Traefik, CoreDNS, monitoring, and automation
-- Rebuilding my engineering portfolio around architecture decisions, operational lessons, and platform case studies
-- Developing a version-controlled LaTeX resume and career knowledge repository
+- Designed complex multi-role enterprise workflows spanning configurable permissions, scheduling, matching rules, background processing, and reporting
+- Delivered finance ERP and operational SaaS capabilities covering drivers, deliveries, expenses, reservations, vehicle updates, and management reporting
+- Built geospatial and event-transport solutions using Google Maps, tracking, custom routing, ASP.NET Core APIs, and Azure-hosted services
+- Delivered authentication-heavy administrative and learning platforms using roles, claims, scheduling, reporting, and stakeholder-driven workflows
 
-## Selected work
+## Selected engineering work
 
-### [Engineering Portfolio](https://hassan.taj.contact)
+### Reusable .NET Application Platform
 
-My public portfolio and professional history. It is currently being redesigned into a deeper engineering portfolio covering platform architecture, identity, cloud infrastructure, operational maturity, and the decisions behind the systems I build.
+**Personal project - ongoing**
+
+A reusable application foundation spanning domain primitives, shared services, Entity Framework integration, repository abstractions, auditing, soft deletion, permissions, pagination, filtering, standardized API responses, and reusable ASP.NET Core components. Supporting reference applications explore Angular, TypeScript, PostgreSQL, GraphQL, OAuth 2.0/OIDC with PKCE, object storage, NuGet packaging, and CI/CD.
 
 ### [Home Lab Server Infrastructure](https://github.com/HassanTaj/home-lab-server-infra)
 
-An educational, self-hosted platform environment built around Docker Compose, Traefik, CoreDNS, private networking, local TLS, monitoring, backups, and repeatable operations. The repository documents the architecture, service boundaries, and operational setup rather than presenting only configuration files.
+An educational self-hosted platform lab built around Docker Compose, Traefik, CoreDNS, private networking, local TLS, monitoring, backups, and repeatable operations. The repository focuses on architecture, service boundaries, recovery, and operational documentation.
+
+### Full-Stack Real Estate Platform
+
+**Personal project - in development**
+
+A multi-application platform with a .NET 8 API, Entity Framework Core, SQL Server, an Angular administration application, and a React customer experience with mapping and property-discovery workflows.
+
+### Pickup Marketplace Prototype
+
+**Personal project - in development**
+
+A marketplace prototype built with NestJS, Fastify, Prisma, PostgreSQL, React Native, Expo, and TypeScript. Its architecture covers role-based workflows, offers, chat, payments, ratings, media, administrative functions, and data-retention concerns.
 
 ## Current professional themes
 
-- Modernizing legacy platforms without disrupting business operations
-- Designing scalable APIs, application boundaries, and integration flows
-- Connecting architecture decisions to deployment, observability, security, and recovery
-- Improving technical communication through diagrams, ADRs, and case studies
-- Applying AI where it improves engineering quality, consistency, and feedback loops
+- Modernizing enterprise platforms through .NET migrations, Angular micro-frontends, React upgrades, GraphQL integrations, and Single Sign-On
+- Designing multi-role business platforms with scheduling, configurable authorization, matching, reporting, and administrative workflows
+- Designing application architecture, APIs, data structures, integration flows, and cloud migration strategies
+- Improving delivery through reusable components, code reviews, technical estimation, CI/CD, and cross-team collaboration
+- Connecting architecture decisions to security, deployment, observability, recovery, and developer experience
+- Using specification-driven and AI-assisted workflows where they improve engineering quality and feedback loops
+
+## Technology landscape
+
+- **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core, NHibernate, NestJS
+- **Frontend:** Angular, React, React Native, TypeScript
+- **Architecture:** Modular systems, microservices, domain-driven design, REST, GraphQL, gRPC, API gateways
+- **Cloud and platform:** Microsoft Azure, AWS, GCP, Docker, Traefik, CI/CD, DNS, TLS
+- **Identity:** OAuth 2.0, OpenID Connect, JWT, PKCE, SSO, claims and permissions
+- **Data:** PostgreSQL, SQL Server, MySQL, MongoDB, Redis, Elasticsearch
 
 ## Certifications
 
@@ -48,15 +71,6 @@ An educational, self-hosted platform environment built around Docker Compose, Tr
 - [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/hassantaj/E5F989A52719D58A?sharingId=F236A6E17FDA877C)
 - [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/hassantaj/22A4B41F6BC2A675?sharingId=F236A6E17FDA877C)
 - [The Linux Foundation: Developing Secure Software (LFD121)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/9f38bed3-526c-474c-9125-9f1e0bba5a6a-hassan-taj-afaf7626-3f2a-4593-86cc-30be3897ca32-certificate.pdf)
-
-## Technology landscape
-
-- **Architecture:** Distributed systems, microservices, domain-driven design, REST, GraphQL, gRPC, API gateways
-- **Platform and operations:** Docker, Traefik, CI/CD, DNS, TLS, monitoring, backup and recovery
-- **Cloud:** Microsoft Azure, AWS, GCP
-- **Backend:** .NET, C#, ASP.NET Core, Entity Framework Core, NHibernate, NestJS
-- **Frontend:** Angular, React, TypeScript
-- **Data:** PostgreSQL, SQL Server, Redis
 
 ## GitHub activity
 
