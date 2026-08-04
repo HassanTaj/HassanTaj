@@ -58,6 +58,14 @@ An educational, self-hosted platform environment built around Docker Compose, Tr
 - **Frontend:** Angular, React, TypeScript
 - **Data:** PostgreSQL, SQL Server, Redis
 
+## GitHub activity
+
+[![Hassan Taj's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HassanTaj&theme=transparent&hide_border=true)](https://github.com/HassanTaj)
+
+![Hassan Taj's GitHub contribution statistics](https://github-readme-streak-stats.herokuapp.com/?user=HassanTaj&theme=transparent&hide_border=true)
+
 ## Connect
 
-[Portfolio](https://hassan.taj.contact) · [LinkedIn](https://www.linkedin.com/in/hassan-taj/) · [Email](mailto:hassantaj01@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hassan.taj.contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-taj/)
+[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:hassantaj01@outlook.com)
