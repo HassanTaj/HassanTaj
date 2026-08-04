@@ -23,7 +23,7 @@ I enjoy translating business requirements into maintainable technical solutions,
 - Built geospatial and event-transport solutions using Google Maps, tracking, custom routing, ASP.NET Core APIs, and Azure-hosted services
 - Delivered authentication-heavy administrative and learning platforms using roles, claims, scheduling, reporting, and stakeholder-driven workflows
 
-## Selected engineering work
+## Engineering work
 
 ### Reusable .NET Application Platform
 
