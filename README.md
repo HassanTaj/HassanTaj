@@ -72,10 +72,7 @@ A marketplace prototype built with NestJS, Fastify, Prisma, PostgreSQL, React Na
 - [Microsoft Certified: Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/hassantaj/22A4B41F6BC2A675?sharingId=F236A6E17FDA877C)
 - [The Linux Foundation: Developing Secure Software (LFD121)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/9f38bed3-526c-474c-9125-9f1e0bba5a6a-hassan-taj-afaf7626-3f2a-4593-86cc-30be3897ca32-certificate.pdf)
 
-## GitHub activity
-
-[![Hassan Taj's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HassanTaj&theme=transparent&hide_border=true)](https://github.com/HassanTaj)
-
+## GitHub activit
 ![Hassan Taj's GitHub contribution statistics](https://github-readme-streak-stats.herokuapp.com/?user=HassanTaj&theme=transparent&hide_border=true)
 
 ## Connect
